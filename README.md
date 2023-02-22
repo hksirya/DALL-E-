@@ -26,6 +26,7 @@
 # Screenshots
 
 <h1>Video demonstration</h1>
+
 https://user-images.githubusercontent.com/104431269/220567004-57ef48d6-5575-49e6-8f1c-a7a634edd4e7.mp4
 
 <h1>Home Screen</h1>
