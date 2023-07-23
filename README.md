@@ -32,6 +32,7 @@
 - To facilitate discovery and exploration, our application enables users to search for posts based on various criteria, including the Name of the user and the Prompt. This powerful search feature enables users to find and connect with other like-minded individuals, promoting a sense of community and belonging.
 
 # Screenshots
+![Dall E](https://github.com/hksirya/DALL-E-/assets/104431269/90dfc192-1d2f-4669-8258-d8bbb329f997)
 
 <h1>Video demonstration</h1>
 
